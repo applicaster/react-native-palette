@@ -1,5 +1,5 @@
 {
-  "name": "react-native-palette",
+  "name": "@applicaster/react-native-palette",
   "version": "1.2.2",
   "description": "A react native component to extract prominent colors from an image",
   "keywords": [
@@ -29,10 +29,7 @@
     "baseUrl": "https://github.com/chetstone/react-native-palette"
   },
   "homepage": "https://github.com//chetstone/react-native-palette#readme",
-  "author": {
-    "name": "Chester Wood",
-    "email": "chetstone@dewachen.org"
-  },
+  "author": "Levon Avetisyan",
   "license": "ISC",
   "peerDependencies": {
     "react": ">=16.8.1",
