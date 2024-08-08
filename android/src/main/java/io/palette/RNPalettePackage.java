@@ -1,4 +1,4 @@
-package io.palette;
+package com.applicaster.palette;
 
 import java.util.Arrays;
 import java.util.Collections;

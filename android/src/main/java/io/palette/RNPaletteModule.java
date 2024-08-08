@@ -1,4 +1,4 @@
-package io.palette;
+package com.applicaster.palette;
 
 import android.graphics.Bitmap;
 import android.graphics.BitmapFactory;
