@@ -1,6 +1,6 @@
 {
   "name": "@applicaster/react-native-palette",
-  "version": "1.2.3",
+  "version": "1.2.4",
   "description": "A react native component to extract prominent colors from an image",
   "keywords": [
     "react-native",
